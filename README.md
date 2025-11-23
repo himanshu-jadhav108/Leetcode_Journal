@@ -29,7 +29,7 @@ It’s my **growth log*
 ## 📈 Current Stats
 
 -   **Started on:** 21/11/2025
--   **Total Problems Solved:** 4
+-   **Total Problems Solved:** 5
 -   **Daily Streak:** 2 days
   
 *(Stats will be updated regularly as I progress!)*
