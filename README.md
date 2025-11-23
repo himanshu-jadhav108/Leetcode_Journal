@@ -59,16 +59,20 @@ Each problem has its own Markdown file containing:
 
 ## 📚 Index (click to read notes)
 
+**Links will be added as I solve**
+
 ### 🟢 Easy
 - [001. Two Sum](easy/001-two-sum.md)
 - [009. Palindrome Number](easy/009-palindrome-number.md)
+- [035. Search Insert Position](easy/035-search-insertion-problem.md)
+- [3190. Minimum Operations to Make Array Elements Divisible by 3](easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
 - 
 
 ### 🟡 Medium
-- (Links will be added as I solve)
+- [1262: Greatest Sum Divisible By Three](medium/1262-greatest-sum-divisible-by-three.md)
 
 ### 🔴 Hard
-- (Links will be added as I solve)
+- 
 
 
 ------------------------------------------------------------------------
