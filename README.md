@@ -30,7 +30,6 @@ It’s my **growth log*
 
 -   **Started on:** 21/11/2025
 -   **Total Problems Solved:** 05
--   **Daily Streak:** 2 days
   
 *(Stats will be updated regularly as I progress!)*
 
@@ -66,7 +65,7 @@ Each problem has its own Markdown file containing:
 - [009. Palindrome Number](easy/009-palindrome-number.md)
 - [035. Search Insert Position](easy/035-search-insertion-problem.md)
 - [3190. Minimum Operations to Make Array Elements Divisible by 3](easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
-- 
+- [1018. Binary Prefix Divisible By 5](easy/1018-binary-prefix-divisible-by-5.md)
 
 ### 🟡 Medium
 - [1262: Greatest Sum Divisible By Three](medium/1262-greatest-sum-divisible-by-three.md)
