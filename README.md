@@ -29,7 +29,7 @@ It’s my **growth log*
 ## 📈 Current Stats
 
 -   **Started on:** 21/11/2025
--   **Total Problems Solved:** 05
+-   **Total Problems Solved:** 08
   
 *(Stats will be updated regularly as I progress!)*
 
@@ -63,11 +63,13 @@ Each problem has its own Markdown file containing:
 ### 🟢 Easy
 - [001. Two Sum](Easy/001-two-sum.md)
 - [009. Palindrome Number](Easy/009-palindrome-number.md)
+- [013. Roman To Integer](EAsy/013-roman-to-integer.md)
 - [035. Search Insert Position](Easy/035-search-insertion-problem.md)
-- [3190. Minimum Operations to Make Array Elements Divisible by 3](Easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
 - [1018. Binary Prefix Divisible By 5](Easy/1018-binary-prefix-divisible-by-5.md)
-
+- [3190. Minimum Operations to Make Array Elements Divisible by 3](Easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
+- 
 ### 🟡 Medium
+- [1015. Smallest Integer Divisible by K](Medium/1015-smallest-integer-divisible-by-k.md)
 - [1262: Greatest Sum Divisible By Three](Medium/1262-greatest-sum-divisible-by-three.md)
 
 ### 🔴 Hard
