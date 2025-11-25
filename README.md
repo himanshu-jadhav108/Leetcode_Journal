@@ -40,9 +40,9 @@ It’s my **growth log*
 
 Problems are organized based on difficulty:
 
-    easy/
-    medium/
-    hard/
+    Easy/
+    Medium/
+    Hard/
 
 Each problem has its own Markdown file containing:
 
@@ -61,14 +61,14 @@ Each problem has its own Markdown file containing:
 **Links will be added as I solve**
 
 ### 🟢 Easy
-- [001. Two Sum](easy/001-two-sum.md)
-- [009. Palindrome Number](easy/009-palindrome-number.md)
-- [035. Search Insert Position](easy/035-search-insertion-problem.md)
-- [3190. Minimum Operations to Make Array Elements Divisible by 3](easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
-- [1018. Binary Prefix Divisible By 5](easy/1018-binary-prefix-divisible-by-5.md)
+- [001. Two Sum](Easy/001-two-sum.md)
+- [009. Palindrome Number](Easy/009-palindrome-number.md)
+- [035. Search Insert Position](Easy/035-search-insertion-problem.md)
+- [3190. Minimum Operations to Make Array Elements Divisible by 3](Easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
+- [1018. Binary Prefix Divisible By 5](Easy/1018-binary-prefix-divisible-by-5.md)
 
 ### 🟡 Medium
-- [1262: Greatest Sum Divisible By Three](medium/1262-greatest-sum-divisible-by-three.md)
+- [1262: Greatest Sum Divisible By Three](Medium/1262-greatest-sum-divisible-by-three.md)
 
 ### 🔴 Hard
 - 
