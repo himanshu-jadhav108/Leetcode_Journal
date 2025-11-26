@@ -73,7 +73,7 @@ Each problem has its own Markdown file containing:
 - [1262: Greatest Sum Divisible By Three](Medium/1262-greatest-sum-divisible-by-three.md)
 
 ### 🔴 Hard
-- 
+- [2435. Path In Matrix Whose Sum Is Divisible By k](Hard/2435-path-in-the-matrix-whose-sum-is-divisible-by-k.md)
 
 
 ------------------------------------------------------------------------
