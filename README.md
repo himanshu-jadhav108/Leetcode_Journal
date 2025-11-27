@@ -12,7 +12,7 @@ Welcome to my personal **LeetCode Journal** — a space where I document every p
 - Complexity analysis  
 
 This is more than just a solutions repo.  
-It’s my **growth log*
+It’s my **growth log**
 
 ------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ It’s my **growth log*
 ## 📈 Current Stats
 
 -   **Started on:** 21/11/2025
--   **Total Problems Solved:** 08
+-   **Total Problems Solved:** 10
   
 *(Stats will be updated regularly as I progress!)*
 
