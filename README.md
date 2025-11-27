@@ -1,7 +1,7 @@
 # 🚀 HJ's LeetCode Journal
 
 
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/ODR1ZWmnTM/)
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-blue)](https://leetcode.com/u/himanshu-jadhav108/)
 
 Welcome to my personal **LeetCode Journal** — a space where I document every problem I solve with:
 
