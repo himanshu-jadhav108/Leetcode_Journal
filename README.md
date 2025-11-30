@@ -66,6 +66,7 @@ Each problem has its own Markdown file containing:
 - [013: Roman To Integer](EAsy/013-roman-to-integer.md)
 - [15: Longest Common Prefix](Easy/015-longest-common-prefix.md)
 - [035: Search Insert Position](Easy/035-search-insertion-problem.md)
+ - [058: Length Of Last Word](Easy/058-length-of-last-word.md)
 - [1018: Binary Prefix Divisible By 5](Easy/1018-binary-prefix-divisible-by-5.md)
 - [3190: Minimum Operations to Make Array Elements Divisible by 3](Easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
 - [3512: Minimum Operations to Make Array Sum Divisible by K](Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k.md)
