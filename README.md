@@ -29,7 +29,7 @@ It’s my **growth log**
 ## 📈 Current Stats
 
 -   **Started on:** 21/11/2025
--   **Total Problems Solved:** 15
+-   **Total Problems Solved:** 16
   
 *(Stats will be updated regularly as I progress!)*
 
@@ -76,8 +76,11 @@ Each problem has its own Markdown file containing:
 - [1262: Greatest Sum Divisible By Three](Medium/1262-greatest-sum-divisible-by-three.md)
 - [1590: Make Sum Divisible by P](Medium/1590-make-sum-divisible-by-p.md)
 - [3381: Maximum Subarray Sum With Length Divisible By K](Medium/3381-maximum-subarray-sum-with-length-divisible-by-k.md)
- - 
+- 
 ### 🔴 Hard
+- [2435: Path In Matrix Whose Sum Is Divisible By k](Hard/2435-path-in-the-matrix-whose-sum-is-divisible-by-k.md)
+- [2872:  Maximum Number of K-Divisible Components](Hard/2872-maximum-number-of-k-divisible-components.md)
+- [2141: Maximum Running Time of N Computers](Hard/2141-maximum-running-time-of-n-computers.md)
 - [2435: Path In Matrix Whose Sum Is Divisible By k](Hard/2435-path-in-the-matrix-whose-sum-is-divisible-by-k.md)
 - [2872:  Maximum Number of K-Divisible Components](Hard/2872-maximum-number-of-k-divisible-components.md)
 
