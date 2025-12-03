@@ -29,7 +29,7 @@ It’s my **growth log**
 ## 📈 Current Stats
 
 -   **Started on:** 21/11/2025
--   **Total Problems Solved:** 16
+-   **Total Problems Solved:** 18
   
 *(Stats will be updated regularly as I progress!)*
 
@@ -79,11 +79,10 @@ Each problem has its own Markdown file containing:
  - [3623: Count Number Of Trapezoids I](Medium/3623-count-number-of-trapezoids-i.md)
  - 
 ### 🔴 Hard
- - [2141: Maximum Running Time of N Computers](Hard/2141-maximum-running-time-of-n-computers.md)
- - [2435: Path In Matrix Whose Sum Is Divisible By k](Hard/2435-path-in-the-matrix-whose-sum-is-divisible-by-k.md)
- - [2872:  Maximum Number of K-Divisible Components](Hard/2872-maximum-number-of-k-divisible-components.md)
-
-
+- [2141: Maximum Running Time of N Computers](Hard/2141-maximum-running-time-of-n-computers.md)
+- [2435: Path In Matrix Whose Sum Is Divisible By k](Hard/2435-path-in-the-matrix-whose-sum-is-divisible-by-k.md)
+- [2872:  Maximum Number of K-Divisible Components](Hard/2872-maximum-number-of-k-divisible-components.md)
+- [3625: Count Number Of Trapezoids II](Hard/3625-count-number-of-trapezoids-ii.md)
 ------------------------------------------------------------------------
 
 ## 🧠 Why I'm Doing This
