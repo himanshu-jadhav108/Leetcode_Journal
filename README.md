@@ -29,7 +29,7 @@ It’s my **growth log**
 ## 📈 Current Stats
 
 -   **Started on:** 21/11/2025
--   **Total Problems Solved:** 18
+-   **Total Problems Solved:** 19
   
 *(Stats will be updated regularly as I progress!)*
 
@@ -64,25 +64,30 @@ Each problem has its own Markdown file containing:
 - [001: Two Sum](Easy/001-two-sum.md)
 - [009: Palindrome Number](Easy/009-palindrome-number.md)
 - [013: Roman To Integer](EAsy/013-roman-to-integer.md)
-- [15: Longest Common Prefix](Easy/015-longest-common-prefix.md)
+- [015: Longest Common Prefix](Easy/015-longest-common-prefix.md)
+- [020: Valid Parentheses](Easy/029-valid-parentheses.md)
 - [035: Search Insert Position](Easy/035-search-insertion-problem.md)
 - [058: Length Of Last Word](Easy/058-length-of-last-word.md)
 - [1018: Binary Prefix Divisible By 5](Easy/1018-binary-prefix-divisible-by-5.md)
 - [3190: Minimum Operations to Make Array Elements Divisible by 3](Easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
 - [3512: Minimum Operations to Make Array Sum Divisible by K](Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k.md)
-- 
+  
+
 ### 🟡 Medium
 - [1015: Smallest Integer Divisible by K](Medium/1015-smallest-integer-divisible-by-k.md)
 - [1262: Greatest Sum Divisible By Three](Medium/1262-greatest-sum-divisible-by-three.md)
 - [1590: Make Sum Divisible by P](Medium/1590-make-sum-divisible-by-p.md)
 - [3381: Maximum Subarray Sum With Length Divisible By K](Medium/3381-maximum-subarray-sum-with-length-divisible-by-k.md)
- - [3623: Count Number Of Trapezoids I](Medium/3623-count-number-of-trapezoids-i.md)
- - 
+- [3623: Count Number Of Trapezoids I](Medium/3623-count-number-of-trapezoids-i.md)
+
+
 ### 🔴 Hard
 - [2141: Maximum Running Time of N Computers](Hard/2141-maximum-running-time-of-n-computers.md)
 - [2435: Path In Matrix Whose Sum Is Divisible By k](Hard/2435-path-in-the-matrix-whose-sum-is-divisible-by-k.md)
 - [2872:  Maximum Number of K-Divisible Components](Hard/2872-maximum-number-of-k-divisible-components.md)
 - [3625: Count Number Of Trapezoids II](Hard/3625-count-number-of-trapezoids-ii.md)
+  
+
 ------------------------------------------------------------------------
 
 ## 🧠 Why I'm Doing This
