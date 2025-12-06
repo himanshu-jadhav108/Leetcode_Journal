@@ -29,7 +29,7 @@ It’s my **growth log**
 ## 📈 Current Stats
 
 -   **Started on:** 21/11/2025
--   **Total Problems Solved:** 21
+-   **Total Problems Solved:** 22
   
 *(Stats will be updated regularly as I progress!)*
 
@@ -80,6 +80,7 @@ Each problem has its own Markdown file containing:
 - [1590: Make Sum Divisible by P](Medium/1590-make-sum-divisible-by-p.md)
 - [2211: Count Collisions on a Road](Medium/2211-count-collisions-on-a-road.md)
 - [3381: Maximum Subarray Sum With Length Divisible By K](Medium/3381-maximum-subarray-sum-with-length-divisible-by-k.md)
+- [3578: Count Partitions With Max-Min Difference At Most K](Medium/3578-count-partitions-with-max-min-difference-at-most-k.md)
 - [3623: Count Number Of Trapezoids I](Medium/3623-count-number-of-trapezoids-i.md)
 
 
