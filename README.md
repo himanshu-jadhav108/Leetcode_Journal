@@ -29,7 +29,7 @@ It’s my **growth log**
 ## 📈 Current Stats
 
 -   **Started on:** 21/11/2025
--   **Total Problems Solved:** 22
+-   **Total Problems Solved:** 23
   
 *(Stats will be updated regularly as I progress!)*
 
@@ -69,6 +69,7 @@ Each problem has its own Markdown file containing:
 - [035: Search Insert Position](Easy/035-search-insertion-problem.md)
 - [058: Length Of Last Word](Easy/058-length-of-last-word.md)
 - [1018: Binary Prefix Divisible By 5](Easy/1018-binary-prefix-divisible-by-5.md)
+- [1523:Count Odd Numbers in an Interval Range](Easy/1523-count-odd-numbers-in-an-interval-range.md)
 - [3190: Minimum Operations to Make Array Elements Divisible by 3](Easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
 - [3432: Count Partitions With Even Sum Difference](Easy/3432-count-partitions-with-even-sum-difference.md)
 - [3512: Minimum Operations to Make Array Sum Divisible by K](Easy/3512-minimum-operations-to-make-array-sum-divisible-by-k.md)
