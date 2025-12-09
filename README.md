@@ -69,7 +69,7 @@ Each problem has its own Markdown file containing:
 - [035: Search Insert Position](Easy/035-search-insertion-problem.md)
 - [058: Length Of Last Word](Easy/058-length-of-last-word.md)
 - [1018: Binary Prefix Divisible By 5](Easy/1018-binary-prefix-divisible-by-5.md)
-- [1523:Count Odd Numbers in an Interval Range](Easy/1523-count-odd-numbers-in-an-interval-range.md)
+- [1523: Count Odd Numbers in an Interval Range](Easy/1523-count-odd-numbers-in-an-interval-range.md)
 - [1925: Count Square Sum Triples](Easy/1925-count-square-sum-triples.md)
 - [3190: Minimum Operations to Make Array Elements Divisible by 3](Easy/3190-minimum-operations-to-make-array-elements-divisible-by-3.md)
 - [3432: Count Partitions With Even Sum Difference](Easy/3432-count-partitions-with-even-sum-difference.md)
@@ -83,6 +83,7 @@ Each problem has its own Markdown file containing:
 - [2211: Count Collisions on a Road](Medium/2211-count-collisions-on-a-road.md)
 - [3381: Maximum Subarray Sum With Length Divisible By K](Medium/3381-maximum-subarray-sum-with-length-divisible-by-k.md)
 - [3578: Count Partitions With Max-Min Difference At Most K](Medium/3578-count-partitions-with-max-min-difference-at-most-k.md)
+- [3583: Count Special Triplets](Medium/3583-count-special-triplets.md)
 - [3623: Count Number Of Trapezoids I](Medium/3623-count-number-of-trapezoids-i.md)
 
 
