@@ -89,11 +89,11 @@ Each problem has its own Markdown file containing:
 
 
 ### 🔴 Hard
+- [85: Maximum Rectangle](Hard/85-maximum-rectangle.md)
 - [2141: Maximum Running Time of N Computers](Hard/2141-maximum-running-time-of-n-computers.md)
 - [2435: Path In Matrix Whose Sum Is Divisible By k](Hard/2435-path-in-the-matrix-whose-sum-is-divisible-by-k.md)
 - [2872:  Maximum Number of K-Divisible Components](Hard/2872-maximum-number-of-k-divisible-components.md)
 - [3625: Count Number Of Trapezoids II](Hard/3625-count-number-of-trapezoids-ii.md)
-  
 
 ------------------------------------------------------------------------
 
